@@ -55,8 +55,4 @@ Related work includes the upstream dark-matter classification artifact, the broa
 
 PDF available via DOI link:
 
-**DOI:** pending Zenodo publication
-
-After Zenodo publication, replace this line with:
-
-**DOI:** https://doi.org/[FINAL_DOI]
+**DOI:** https://doi.org/10.5281/zenodo.20515692
