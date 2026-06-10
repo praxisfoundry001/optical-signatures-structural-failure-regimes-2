@@ -1,0 +1,1904 @@
+﻿Optical Signatures of Structural Failure Regimes
+A Dark-Matter-Facing Prediction Protocol with Immiscible Fluids as an SF-Isomorphic Calibration Surface
+Relationship to Prior Work
+This artifact is downstream of the Structural Flow dark-matter classification artifact, Dark Matter as Structural Failure Regimes of Persistence.
+That prior artifact proposed that phenomena currently grouped under “dark matter” may be structurally classifiable as finite failure regimes of persistence rather than as one homogeneous persistence category. It did not propose a new particle, field, force, or replacement cosmology.
+The present artifact does not re-derive that classification.
+It asks the next question:
+If that classification is useful, what light-signature families should follow?
+The answer is developed through a calibration protocol. Immiscible fluids are not treated as cosmological dark matter. They are used as an SF-isomorphic surface in which failure-regime behavior can be observed, classified independently, and tested with light before the harder dark-matter-facing observational question is approached.
+1. Proposed Test and Scope
+This artifact proposes a testable light-signature prediction protocol.
+It is also a testable hypothesis. The hypothesis is not that optical irregularities are interesting after the fact. The hypothesis is that independently classified failure regimes should produce distinguishable optical measurement-shape clusters. 
+The guiding claim is direct but conditional:
+If dark-matter-associated gravitational persistence can be classified as Dissolution, Shear, Drift, Echo, or Lock, then those regimes should not all produce the same light-signature family.
+They should produce distinguishable measurement-shape clusters.
+That question cannot yet be answered directly at cosmological scale. Regions currently inferred as dark matter cannot be placed on a laboratory table, perturbed at will, and watched under controlled optical conditions.
+The present artifact therefore begins with a calibration surface.
+Immiscible fluids are used here as an SF-isomorphic calibration surface: a visible, controllable setting in which boundary formation, failed retention, patch fragmentation, drift, recurrence, and history-dependence can be observed, classified independently, and probed with light.
+Immiscible fluids are not treated as cosmological dark matter.
+They are also not treated as a mere metaphor.
+They are used as a structurally related test surface where the proposed failure-regime signature grammar can be sharpened before the harder dark-matter-facing observational question is approached.
+1.1 Minimal Structural Flow Background
+Structural Flow begins from a plain condition:
+interaction can occur without guarantee of persistence, identity, or outcome.
+In ordinary language: things can happen without automatically continuing.
+A boundary may form and disappear. A pattern may begin and fail. A local structure may hold briefly but fail to compose with nearby structure. A system may repeat without settling. A prior state may continue to govern after conditions have changed.
+For this artifact, the important point is narrow:
+failure is not one thing.
+A structure can fail because distinction never holds. It can fail because local hold fragments. It can fail because retained structure loses alignment. It can fail because recurrence does not become durable update. It can fail because prior state over-holds after update should occur.
+These five failure patterns are named:
+* Dissolution;
+* Shear;
+* Drift;
+* Echo;
+* Lock.
+The artifact does not ask the reader to accept all of Structural Flow in advance. It asks whether this five-regime classification can generate testable light-signature predictions.
+1.2 The Two-Level Target
+This artifact has two connected targets.
+The immediate target is the calibration test:
+Do independently classified immiscible-fluid failure regimes produce distinguishable optical measurement-shape clusters when light is used as a probe?
+The long-range target is dark-matter-facing:
+If the calibration grammar survives, can related signature families be sought in lensing, shear, reconstruction, and residual behavior associated with dark-matter-associated gravitational regions?
+These are not the same claim.
+A successful immiscible-fluid calibration result would not directly detect dark matter.
+A failed immiscible-fluid calibration result would not automatically falsify all of Structural Flow.
+But the calibration result matters because it tests whether the proposed regime-to-light-signature grammar has measurable physical traction in a controlled SF-isomorphic surface.
+1.3 The Governing Experimental Rule
+The calibration test has a strict ordering rule:
+classify the fluid first;
+test the light second.
+The optical output cannot be used as the sole basis for classifying the regime if that same optical output is what the experiment is trying to predict.
+For example, a region should not be classified as Shear merely because a laser produces speckle-like fragmentation. The fluid region should first be classified as Shear using independent or non-target evidence such as morphology, perturbation history, local patch incompatibility, time behavior, recurrence, relaxation, or hysteresis. The light-probe prediction is then tested afterward.
+This protects the proposal from circularity.
+The experiment is not:
+observe an optical pattern, then assign the regime that best explains it.
+The experiment is:
+classify the structural regime first, state the predicted optical cluster, then test whether the light reports that cluster.
+1.4 Clusters, Not Single Signals
+The prediction is not that one optical sign uniquely identifies one regime.
+It is not:
+blur means Dissolution;
+speckle means Shear;
+motion means Drift;
+recurrence means Echo;
+delay means Lock.
+Those shortcuts are too weak. Many ordinary optical and fluid-mechanical effects can blur, scatter, move, repeat, or relax slowly for reasons unrelated to Structural Flow.
+The stronger prediction is that each independently classified regime should change local optical admissibility in a different way.
+In plain language:
+each regime should change what kind of optical behavior the local structure can still carry.
+Those different changes should appear as different measurement-shape clusters across ordinary optical variables such as contrast, phase, scattering, beam displacement, recurrence, baseline shift, and hysteresis.
+1.5 The Proposed Prediction Chain
+The full program has this structure:
+upstream dark-matter classification
+→ five Structural Flow failure regimes
+→ immiscible-fluid SF-isomorphic calibration surface
+→ independent regime classification
+→ local optical admissibility change
+→ classical optical measurement cluster
+→ confound test
+→ possible long-range dark-matter-facing signature family.
+The present artifact works mainly in the calibration tier.
+It asks whether failure-regime differences can be translated into distinguishable light-probe profiles in an accessible physical surface.
+The long-range dark-matter-facing target remains conditional and future-facing. At that level, the relevant signatures would not be laboratory fluid interfaces. They would more likely appear in lensing maps, shear fields, mass reconstructions, residual structures, centroid offsets, scale-dependent reconstruction behavior, repeated residual motifs, or path-dependent modeling outcomes associated with inferred dark-matter structure.
+1.6 First-Pass Calibration Predictions
+In the calibration surface, the five regime predictions can be stated in compressed form.
+Dissolution predicts failure of local readability. A feature or interface begins to appear but does not stabilize above the relevant threshold.
+Shear predicts local readability without field-level composition. Features remain locally sharp, but neighboring local features are incompatible.
+Drift predicts preserved readability with accumulating misregistration. A feature remains visible, but its orientation center, position, phase, or path shifts directionally over time.
+Echo predicts recurrence without durable update. A feature or response returns with high similarity, but does not establish a new stable baseline.
+Lock predicts path-dependent behavior under matched current conditions. A prior fluid state remains operative after current conditions should have allowed update.
+The later sections make these predictions operational.
+1.7 Pure-Regime Prediction and Mixed-Regime Reality
+The long-range dark-matter-facing claim should be understood as an ideal-regime prediction.
+Most real dark-matter-associated observations are likely to be mixed, transitional, noisy, or confounded. A galaxy cluster, lensing map, residual field, reconstruction surface, or inferred halo structure may express more than one failure regime at once.
+That does not weaken the prediction. It clarifies what the cleanest test would be.
+The sharper prediction is this:
+if a dark-matter-associated gravitational region could be observed in a clean, pure, or strongly regime-dominant case, then the observed light-related, lensing, shear, reconstruction, or residual pattern should match the signature family predicted for that regime.
+For example, a clean Echo-dominant case should exhibit recurrence without durable update.
+A clean Shear-dominant case should exhibit local fit success with global composition failure.
+A clean Drift-dominant case should exhibit retained inferred structure with systematic misalignment.
+A clean Lock-dominant case should exhibit data-tied path dependence under matched current conditions, after ordinary algorithmic path dependence is controlled.
+A clean Dissolution-dominant case should exhibit failed local retention, though at current observational scope Dissolution remains difficult to separate from noise and weak-signal instability.
+This does not require most real systems to be pure.
+It means that pure or strongly dominant regimes provide the clearest test cases. Mixed observations should be marked as mixed, dominant-mode, or transitional rather than forced into a clean regime.
+In compressed form:
+pure regimes are the prediction ideal;
+mixed regimes are the expected observational reality.
+1.8 Long-Range Dark-Matter-Facing Posture
+The long-range target is not “light through dark matter” in the ordinary optical-medium sense.
+The safer target is:
+light passing through, around, or reconstructed across dark-matter-associated gravitational regions.
+At that level, the question becomes whether lensing, shear, mass reconstruction, and residual behavior associated with inferred dark-matter structure sort into failure-regime pattern families better than they do under undifferentiated residual treatment.
+At current scope, the five regimes do not have equal observational readiness.
+Shear and Drift appear to be the strongest early dark-matter-facing candidates.
+Lock is promising but methodologically dangerous.
+Echo is fragile and likely requires ensemble-level study.
+Dissolution remains structurally necessary but should remain calibration-only at current observational scope because it is too easily confused with noise and weak-signal instability.
+This hierarchy should not be hidden. It is part of the discipline of the proposal.
+1.9 Non-Claims
+This artifact does not claim direct detection of dark matter.
+It does not propose a new dark-matter particle, field, or force.
+It does not replace ΛCDM or existing gravitational-lensing methods.
+It does not claim that immiscible fluids are cosmological dark matter.
+It does not derive full General Relativity, photon theory, Maxwell’s equations, quantum electrodynamics, or numerical thresholds.
+It does not claim that satisfying an observational discriminator confirms a regime.
+Its narrower claim is conditional and test-facing:
+if the upstream Structural Flow dark-matter classification is useful, then failure-regime differences should produce distinguishable light-signature families; immiscible fluids are proposed as a controlled SF-isomorphic calibration surface for that signature grammar.
+1.10 What Would Count as Success or Failure
+The proposal is intentionally falsifiable.
+The calibration mapping is supported if independently classified immiscible-fluid regimes produce the predicted optical measurement-shape clusters after ordinary confounds are considered.
+The calibration mapping is weakened if independently classified regimes do not produce distinguishable clusters, if the clusters collapse into ordinary blur, scattering, motion, oscillation, relaxation, or apparatus effects, or if optical behavior alone must be used to classify the regime that the optical behavior was supposed to test.
+The dark-matter-facing projection is supported only later, and only more indirectly, if calibrated signature families can be translated into useful, confound-controlled lensing, shear, reconstruction, or residual pattern families.
+The dark-matter-facing projection is weakened if ordinary astrophysical and modeling explanations fully absorb the candidate patterns, or if the calibrated signature grammar cannot be made useful at the observational scale.
+A failed calibration result would locate a seam in the light-signature grammar.
+A failed dark-matter-facing result would locate a seam in the projection of that grammar into cosmological observation.
+Neither failure would automatically falsify all of Structural Flow.
+But either failure would matter.
+That is the point of the proposal.
+2. Structural Background and Test Surface
+This section gives the background needed to understand the calibration surface.
+The artifact uses five Structural Flow failure regimes:
+* Dissolution;
+* Shear;
+* Drift;
+* Echo;
+* Lock.
+These names do not refer to five moods, metaphors, or visual styles. They refer to five different ways structural carry can fail.
+In Structural Flow, a structure does not merely happen. It has to hold against loss. It has to maintain enough distinction to remain available for further consequence. If it cannot hold, compose, stay aligned, settle, or update properly, it fails in a specific way.
+For this artifact, that distinction matters because the proposed test does not ask whether a fluid becomes visually complicated. Many fluids become complicated. Many optical systems produce blur, scattering, drift, recurrence, or delay for ordinary reasons.
+The sharper question is:
+do different failure regimes produce different light-signature families when the regime is classified before the light-probe output is evaluated?
+2.1 What a Failure Regime Means Here
+A failure regime is a structural failure pattern.
+It names where and how carry breaks.
+A structure can fail before it stabilizes. It can stabilize locally and then fragment. It can remain readable but lose alignment. It can recur without becoming a durable update. It can retain prior state after present conditions should have allowed change.
+Those are not the same failure.
+They are different ways persistence can fail to become coherent, transmissible, or update-capable.
+The five regimes used here are therefore not five labels for “mess.” They are five candidate failure shapes.
+The calibration experiment asks whether those failure shapes can be made visible enough, and measured carefully enough, for light to report them differently.
+2.2 Five-Regime Summary
+Regime
+	Plain definition
+	Calibration meaning
+	Dissolution
+	distinction appears but cannot hold
+	a boundary, feature, or contrast condition begins but fails to stabilize
+	Shear
+	local hold fragments under load
+	local features remain readable but neighboring features do not compose
+	Drift
+	memory exists but alignment fails
+	a readable feature persists while its position, orientation, phase, or relation shifts
+	Echo
+	retry happens without thickening
+	a pattern or response recurs without becoming a durable new baseline
+	Lock
+	memory over-holds after update should occur
+	the same current conditions produce different outcomes depending on prior path
+	This table gives the minimum needed background.
+The later classification section makes these definitions operational.
+2.3 Dissolution
+Dissolution occurs when:
+distinction appears but cannot hold.
+A structure begins to become something distinguishable, but it does not retain itself long enough to carry forward as a stable feature.
+In an immiscible-fluid system, this may look like a boundary, droplet, filament, interface, or contrast feature beginning to form and then fading, blurring, reabsorbing, or disappearing before it becomes stable.
+The key idea is not ordinary blur.
+The key idea is failed retained distinction.
+Dissolution is the regime of failed local hold. Something starts to become readable, but it cannot remain readable.
+2.4 Shear
+Shear occurs when:
+local hold fragments under load.
+Unlike Dissolution, Shear does not require local structure to vanish. In Shear, local structure may remain sharp, strong, and readable. The failure is that neighboring local structures no longer compose into one smooth continuation.
+In an immiscible-fluid system, this may look like a torn interface, broken filaments, fragmented droplets, folded layers, or sharp patches that do not agree with nearby patches.
+The key idea is not generic messiness.
+The key idea is incompatible local hold.
+Shear is the regime of local readability without field-level composition. The pieces exist, but they do not fit together as one carried structure.
+2.5 Drift
+Drift occurs when:
+memory exists but alignment fails.
+In Drift, something is retained. The structure has not dissolved, and it has not merely fragmented into incompatible pieces. A readable condition persists, but it no longer stays properly registered across time, position, scale, frame, or expected continuation.
+In an immiscible-fluid system, this may look like a boundary or gradient that remains visible but wanders, shifts, misaligns, or accumulates displacement over time.
+The key idea is not motion alone.
+The key idea is retained structure losing alignment.
+Drift is the regime of carried misregistration. Something remains readable, but it will not stay lined up.
+2.6 Echo
+Echo occurs when:
+retry happens without thickening.
+In Echo, a structure or pattern returns, but the recurrence does not become a durable new state. The system repeats without ratcheting into a stable update.
+In an immiscible-fluid system, this may look like a recurring droplet pattern, repeated filament shape, cyclic interface response, or recurring disturbance that does not settle into a new morphology.
+The key idea is not ordinary oscillation.
+The key idea is recurrence without durable update.
+Echo is the regime of return without ratchet. Something comes back, but nothing new is carried forward strongly enough to become the next stable condition.
+2.7 Lock
+Lock occurs when:
+memory over-holds after update should occur.
+In Lock, the problem is not that structure fails to hold. The problem is that it holds too much, holds too long, or remains governed by prior path after current conditions should have allowed update.
+In an immiscible-fluid system, this may look like hysteresis, delayed reset, residual boundary structure, prior-path dependence, or different states appearing under the same current conditions depending on how the system arrived there.
+The key idea is not slow relaxation alone.
+The key idea is prior-path authority.
+Lock is the regime of stale carry. The past remains active in the present after it should have released, updated, or reconfigured.
+2.8 Why Immiscible Fluids Are Used
+The proposed calibration test needs a physical system where structural failure can be seen before the optical prediction is evaluated.
+Immiscible fluids are useful because they make boundary behavior visible.
+When two fluids do not fully mix, their contact region can form interfaces, droplets, filaments, folds, layers, patches, gradients, and residual patterns. These structures can persist, dissolve, fragment, drift, recur, or become path-dependent.
+That makes immiscible fluids a useful SF-isomorphic calibration surface.
+They are not used because they are cosmological dark matter.
+They are used because they visibly express a relation between persistence, boundary, non-integration, local hold, fragmentation, recurrence, and memory-like over-retention.
+The proposal does not require immiscible fluids to be simple. They are not simple. Their behavior can be affected by viscosity, surface tension, density difference, surfactants, temperature, flow history, container geometry, perturbation strength, and many other factors.
+That complexity is not ignored.
+It is part of why the classification rule matters.
+The fluid regime must be classified before the target optical output is evaluated. The classification should use morphology, perturbation history, response to perturbation, time behavior, recurrence, relaxation, hysteresis, and non-target observation wherever possible.
+Immiscible fluids are useful here because they provide visible structural events that can be classified before light is used as the target probe.
+2.9 Why Light Is Used
+Light is used because it is sensitive to structure in a medium.
+When light passes through or across a fluid region, its behavior can change when the medium’s boundary, contrast, alignment, recurrence, or memory changes. The light may bend, scatter, dim, brighten, shift phase, form speckle, split, recur in a pattern, or show hysteresis depending on what local conditions the medium presents.
+This artifact uses light in a minimal way:
+light is a readable carried optical continuation through a structured medium.
+That means the proposal does not need to settle every question about what light is.
+It does not need photon ontology.
+It does not need Maxwell closure.
+It does not need quantum electrodynamics.
+It does not need a full wave-optics theory.
+It only needs the ordinary fact that optical behavior can be measured when a structured medium changes the conditions through which light travels.
+The proposal therefore treats light as a probe of local optical admissibility.
+In plain terms:
+the medium presents local conditions;
+the light reports whether and how optical continuation can be carried through them.
+2.10 What Light Can Report in the Calibration Surface
+A light-probe can report several kinds of change.
+It can report boundary readability through contrast.
+It can report local gradients through refractive bending or phase change.
+It can report patch fragmentation through scattering, speckle, beam splitting, or irregular intensity.
+It can report Drift through beam displacement, phase walk, or movement of a local orientation center.
+It can report Echo through repeated phase, intensity, scattering, or displacement patterns.
+It can report Lock through hysteresis, delayed reset, residual bias, or path-dependent output under matched current conditions.
+The proposal does not treat any one of these signs as decisive by itself.
+A single optical sign can mislead.
+The strength of the test comes from measurement-shape clusters. The question is whether several related optical variables move together in the way predicted for the independently classified fluid regime.
+2.11 Why This Is a Calibration Test Rather Than a Metaphor
+The proposal is not saying that immiscible fluids are “like” Structural Flow failure regimes in a poetic sense.
+It is making a narrower and stronger use of them.
+If the five Structural Flow regimes identify real differences in how structure fails to hold, compose, align, recur, or update, then those differences should be visible in a system where boundary behavior can be independently observed.
+Immiscible fluids provide such a system.
+Light provides a sensitive probe of the resulting local optical conditions.
+The immediate test is therefore:
+independently classified structural failure regimes in immiscible fluids should produce distinguishable optical measurement-shape clusters.
+The long-range target is harder:
+related signature families may eventually be sought in lensing, shear, reconstruction, and residual behavior associated with dark-matter-associated gravitational regions.
+The fluid calibration does not prove the dark-matter-facing target.
+But if the calibration signatures cannot be distinguished in the accessible surface, the long-range projection weakens.
+If the calibration signatures can be distinguished, the proposal earns a stronger signature grammar for later, harder tests.
+That is the role of the test surface.
+3. Independent Pre-Optical Regime Classification
+The proposed calibration test depends on a strict ordering rule:
+classify the fluid first;
+test the light second.
+The optical profile cannot be used as the sole basis for classifying the regime if that same optical profile is what the experiment is trying to predict.
+Otherwise, the test becomes circular.
+For example, a region should not be classified as Shear merely because a laser produces speckle-like fragmentation. The region should first be classified as Shear using independent or non-target evidence, such as interface fragmentation, incompatible local patches, perturbation history, or morphology. The light-probe prediction is then tested afterward.
+The same rule applies to all five regimes.
+The classification may use ordinary visual observation, imaging, perturbation history, time-series records, morphology, recurrence, relaxation, hysteresis, and other structural evidence. It may also use optical or imaging tools if those tools are not the same target optical output being evaluated by the prediction.
+The purpose is not to forbid measurement.
+The purpose is to prevent the predicted signal from becoming the classification rule.
+In plain terms:
+do not use the answer as the question.
+3.1 What “Pre-Optical” Means Here
+“Pre-optical” does not mean that no optical instrument may ever be used.
+It means:
+the target light-probe result cannot be the evidence that assigns the regime being tested.
+A camera may help observe morphology.
+A microscope may help identify interface structure.
+A non-target illumination setup may help classify boundary formation, fragmentation, recurrence, or hysteresis.
+But if the experiment is testing whether a laser beam reports Shear through patch-tied scattering, then the patch-tied scattering cannot be the only reason the region was called Shear.
+The classification evidence must be independent enough that the prediction has something to risk.
+3.2 Classification Evidence Families
+A proposed regime classification should use more than one evidence family where possible.
+Useful evidence families include:
+Morphology
+What does the fluid structure look like before the target light-probe result is evaluated?
+Examples include boundary sharpness, droplets, filaments, folds, patches, gradients, interface breaks, or residual structures.
+Perturbation History
+What happened to the system before classification?
+Examples include stirring, compression, release, oscillation, reversal, heating, cooling, dwell time, or repeated cycling.
+Time Behavior
+Does the feature persist, decay, drift, recur, or remain path-dependent over time?
+Time behavior is especially important for distinguishing Dissolution, Drift, Echo, and Lock.
+Patch Relation
+Do neighboring local features compose into one smooth field, or do they remain locally readable but mutually incompatible?
+Patch relation is especially important for Shear.
+Recurrence
+Does a pattern return?
+If it returns, does it become a stable new baseline, or does it recur without durable update?
+Recurrence is especially important for Echo.
+Relaxation
+Does the system converge toward a path-independent condition when held long enough?
+Relaxation behavior is especially important for distinguishing Lock from ordinary slow equilibration.
+Hysteresis and Path Dependence
+Do matched current conditions produce different states depending on the path by which the system arrived there?
+This is especially important for Lock.
+Non-Target Measurement
+Can the region be classified by evidence other than the target optical profile?
+This may include morphology, video records, independent imaging, external perturbation logs, local contrast tracking, spatial autocorrelation, orientation-center tracking, or parallel measurements not used as the target light-probe result.
+3.3 Operational Classification Table
+The following table gives the minimum pre-optical classification burden for each regime.
+Regime
+	Operational fluid definition
+	Key pre-optical evidence
+	Nearest false positive
+	Dissolution
+	interface or feature formation fails to stabilize
+	local contrast does not hold above the noise floor within the relevant sampling window; feature lifetime is short; local orientation remains unstable or undefined
+	weak Shear below probe resolution; ordinary blur; poor imaging; low contrast
+	Shear
+	interface or feature exists locally at high contrast, but neighboring local features are incompatible
+	sharp local patches persist; spatial autocorrelation is short; neighboring orientations or boundaries fail to compose
+	Dissolution; generic turbulence; random scattering; ordinary roughness
+	Drift
+	interface or feature maintains local readability but accumulates directional displacement
+	orientation center, position, phase, or boundary relation shifts over time while the feature remains identifiable
+	ordinary flow; vibration; apparatus motion; bulk transport
+	Echo
+	interface or feature recurs at high cycle-to-cycle similarity without durable baseline shift
+	repeated morphology or disturbance response; low accumulation; return toward prior baseline
+	ordinary oscillation; repeated external forcing; bounded Drift
+	Lock
+	feature state depends on prior path under matched current conditions
+	hysteresis, delayed reset, path-class separation, or different states at the same current condition depending on prior route
+	slow relaxation; viscosity lag; diffusion lag; insufficient dwell
+	This table is not enough by itself.
+It is a starting point.
+Each classification should also name the evidence used, the nearest false positive, and the reason the target optical signal is not doing the classification work.
+3.4 Classification Statuses
+A region should not be forced into a clean regime if the evidence does not support it.
+The classification record should assign one of the following statuses.
+Clean Classification
+Use when the evidence strongly supports one regime and nearby false positives are addressed.
+Example:
+a locally sharp patch field persists, but neighboring patches remain incompatible under perturbation and do not compose into one smooth continuation.
+This may support clean Shear.
+Dominant-Mode Classification
+Use when one regime appears primary, but secondary features are present.
+Example:
+the region is mostly Shear, but the fragmented patch field also drifts under flow.
+This may support Shear-dominant with Drift features.
+Mixed Classification
+Use when two or more regimes are genuinely active and cannot be responsibly reduced to one dominant mode.
+Example:
+recurrence is present, but prior path also changes later outputs under matched conditions.
+This may be Echo / Lock mixed.
+Transitional Classification
+Use when the region appears to be moving from one regime toward another.
+Example:
+features initially fail to hold, then begin forming sharp incompatible local patches.
+This may be Dissolution-to-Shear transitional.
+Candidate Classification
+Use when the evidence suggests a regime but is not yet strong enough for clean or dominant classification.
+Example:
+path-dependence appears possible, but dwell time is too short to distinguish Lock from slow relaxation.
+This may be a Lock candidate.
+Excluded / Not Classifiable
+Use when the evidence is insufficient, confounded, or too dependent on the target optical signal.
+Example:
+the only reason a region is called Shear is that the target laser image looks speckled.
+That is not enough.
+3.5 Regime-Specific Classification Questions
+The classification process can be kept practical by asking one regime-specific question for each candidate classification.
+Dissolution
+Did the local distinction fail to stabilize, or did stable local pieces form but fail to compose?
+If local distinction itself fails, Dissolution remains plausible.
+If local pieces form and remain sharp, Shear may be the better classification.
+Shear
+Are there stable local features that cannot be held together as one smooth field?
+If yes, Shear remains plausible.
+If local features fail to stabilize at all, Dissolution may be the better classification.
+Drift
+Does the same readable feature remain present while its alignment shifts in a systematic way?
+If yes, Drift remains plausible.
+If the feature returns to baseline without accumulating misregistration, Echo may be the better classification.
+Echo
+Does the pattern return without becoming a new stable state?
+If yes, Echo remains plausible.
+If recurrence creates a stable new baseline, the region is no longer clean Echo.
+If prior path begins to govern later outputs under matched current conditions, Lock may be emerging.
+Lock
+Under the same current conditions, does the system still answer differently depending on how it got there?
+If yes, Lock remains plausible.
+If differences vanish after sufficient dwell, ordinary relaxation may be the better explanation.
+3.6 Mixed and Transitional Cases
+Real systems may not express pure regimes.
+This is expected.
+The classification protocol should therefore allow mixed and transitional cases rather than forcing false cleanliness.
+Examples include:
+* Dissolution-to-Shear: local distinction first fails to stabilize, then sharp incompatible patches begin to form.
+* Shear-with-Drift: fragmented patches persist while the patch field shifts directionally over time.
+* Drift-to-Echo: a feature accumulates displacement, then begins returning cyclically without durable baseline shift.
+* Echo-to-Lock: recurrence begins to establish prior-path authority under matched current conditions.
+* Lock-with-relaxation-front: the system relaxes, but toward a path-dependent attractor rather than a path-independent state.
+Mixed cases should be marked honestly.
+They should not be used as clean confirmation of one regime.
+Where possible, the classification should state:
+* primary regime;
+* secondary regime;
+* transitional direction;
+* evidence for each;
+* what would clarify the classification.
+3.7 Minimum Classification Record
+Before the target light-probe output is evaluated, the experiment should record:
+1. the candidate regime;
+2. the classification status;
+3. the evidence used;
+4. the perturbation history;
+5. the nearest false positive;
+6. the main confounds already considered;
+7. whether the target optical signal was excluded from classification;
+8. the predicted optical measurement-shape cluster;
+9. what would weaken the classification.
+A minimal record might look like this:
+Field
+	Example
+	Candidate regime
+	Shear
+	Status
+	Dominant-mode classification
+	Evidence
+	sharp local patches; incompatible neighboring orientations; short spatial correlation
+	Perturbation history
+	stirred, then held for 90 seconds
+	Nearest false positive
+	weak Dissolution or ordinary turbulence
+	Confounds considered
+	imaging resolution; probe scale; bulk flow
+	Target optical signal excluded?
+	yes
+	Predicted optical cluster
+	patch-tied scattering, local contrast, discontinuity
+	Weakening condition
+	smooth single-field composition appears under better imaging
+	This record makes the test auditable.
+It also makes the test vulnerable to failure.
+That is important.
+3.8 Prediction Permission Rule
+A region should enter the target light-probe test only if the classification is strong enough to support a prediction.
+The permission rule is:
+no classification, no prediction.
+If the region is not classifiable, the light-probe result may still be interesting, but it should not be counted as a test of the regime prediction.
+If the classification is candidate-only, the result should be interpreted cautiously.
+If the classification is mixed, the predicted optical cluster should also be mixed or dominant-mode, not artificially pure.
+If the classification is clean or strongly dominant, the prediction can be stated more sharply.
+The discipline is simple:
+the strength of the optical prediction cannot exceed the strength of the independent regime classification.
+This is the anti-circularity core of the calibration protocol.
+The proposal is not trying to look at light, name a regime, and then claim the light confirmed the regime.
+It is trying to classify a structural condition first and then ask whether light reports the predicted cluster.
+That order is what makes the proposal testable.
+4. What Structural Flow Predicts in the Calibration Surface
+The previous section explained how the fluid regime should be classified before the target light-probe result is evaluated.
+This section states what Structural Flow predicts once that classification has been made.
+The prediction is not that each regime produces one simple optical sign.
+It is not:
+Dissolution means blur.
+Shear means speckle.
+Drift means motion.
+Echo means repetition.
+Lock means delay.
+Those shortcuts are too weak. Many ordinary systems can blur, scatter, move, repeat, or relax slowly.
+The stronger prediction is that each independently classified failure regime should change the local conditions for optical continuation in a different way.
+In plain language:
+the light should not merely look different;
+it should fail, fragment, drift, recur, or lock in the specific way predicted by the classified fluid regime.
+The calibration surface matters because the fluid behavior can be observed directly before the light-probe output is interpreted. That lets the experiment ask a real prediction question:
+If the fluid is classified as this regime, does the light report the corresponding measurement-shape cluster?
+4.1 What Counts as a Measurement-Shape Cluster
+A measurement-shape cluster is a group of related observable behaviors that should appear together if the classification is correct.
+The proposal does not treat one sign as enough.
+For example, blur alone is not Dissolution. Speckle alone is not Shear. Motion alone is not Drift. Repetition alone is not Echo. Delay alone is not Lock.
+A cluster is stronger because it asks whether several related measurements move together in the expected way.
+For Dissolution, the cluster concerns loss of local readability.
+For Shear, the cluster concerns sharp local patches that do not compose.
+For Drift, the cluster concerns preserved readability with accumulating misregistration.
+For Echo, the cluster concerns recurrence without durable update.
+For Lock, the cluster concerns path-dependent memory under matched current conditions.
+The central prediction is therefore:
+independently classified regimes should produce distinguishable clusters, not merely isolated optical effects.
+4.2 The Three Practical Deformation Questions
+For public-facing use, the calibration prediction can be organized around three practical questions.
+Question 1 — Does a local readable condition form and hold?
+This question separates Dissolution from regimes where local structure survives.
+If no stable local condition forms, the light-probe should report weak or decaying readability.
+If a local condition does form, the experiment moves to the next question.
+Question 2 — Do local conditions compose across space?
+This question separates Shear from regimes where local structure remains field-compatible.
+If local patches are readable but mutually incompatible, the light-probe should report fragmentation, discontinuity, short spatial correlation, or patch-tied scattering.
+If local conditions compose, the experiment moves to time, recurrence, and history.
+Question 3 — How does the readable condition behave over time and path?
+This question separates Drift, Echo, and Lock.
+If a readable condition remains but accumulates displacement, the predicted cluster is Drift.
+If a condition recurs without becoming a stable new baseline, the predicted cluster is Echo.
+If the present output depends on prior path under matched current conditions, the predicted cluster is Lock.
+These questions do not replace the five-regime classification.
+They help make the prediction usable:
+formation, composition, registration, recurrence, and path-dependence should fail differently.
+4.3 Prediction Table
+The calibration predictions can be summarized as follows.
+Regime
+	Classified fluid condition
+	Predicted light-probe cluster
+	Core discriminator
+	Dissolution
+	distinction appears but cannot hold
+	decay of local readability
+	local contrast fails to stabilize above the relevant threshold
+	Shear
+	local hold fragments under load
+	sharp local patches with broken composition
+	local contrast survives, but spatial composition fails
+	Drift
+	memory exists but alignment fails
+	preserved readability with directional displacement
+	local feature persists while registration accumulates error
+	Echo
+	retry occurs without thickening
+	recurrence without durable baseline shift
+	profile returns without ratchet
+	Lock
+	memory over-holds after update should occur
+	path-dependent hysteresis or residual bias
+	same current condition differs by prior path
+	This table should be read as a prediction map, not as a completed optical theory.
+Structural Flow supplies the expected failure shape.
+Classical optics supplies the measurement language.
+The experiment asks whether the two meet in the calibration surface.
+4.4 Dissolution Prediction: Decay of Local Readability
+Dissolution means:
+distinction appears but cannot hold.
+In the calibration surface, Dissolution is classified when a boundary, droplet, filament, interface, or contrast feature begins to form but fails to stabilize.
+The predicted light-probe cluster is:
+decay of local readability.
+Expected signs include:
+* local contrast fails to rise above the noise floor or quickly falls back below it;
+* boundary or interface visibility fades;
+* refractive-gradient readability weakens;
+* local best-fit direction is unstable or undefined;
+* feature lifetime is short;
+* optical phase, scattering, or intensity does not stay anchored to a stable boundary;
+* temporal autocorrelation is weak because the feature does not survive long enough to be carried.
+Plainly:
+Dissolution should look like a failed formation attempt.
+The key is not ordinary blur. Blur can come from focus, lighting, turbidity, apparatus limitations, or probe-scale averaging.
+Dissolution requires evidence that the fluid distinction itself is not stabilizing.
+The strongest Dissolution prediction is:
+the fluid feature begins to appear, but local contrast does not hold above the relevant threshold.
+Dissolution is weakened if a sharp, stable, boundary-locked optical condition persists in a region independently classified as Dissolution.
+4.5 Shear Prediction: Sharp Local Patches That Do Not Compose
+Shear means:
+local hold fragments under load.
+In the calibration surface, Shear is classified when local structures remain readable but neighboring structures are incompatible.
+The predicted light-probe cluster is:
+sharp local readability with broken spatial composition.
+Expected signs include:
+* high local contrast inside patches;
+* short spatial autocorrelation length;
+* abrupt changes across patch boundaries;
+* phase or intensity discontinuities;
+* patch-tied scattering;
+* speckle-like structure only if it tracks independently observed patch incompatibility;
+* beam splitting or irregular caustics tied to fragmented morphology;
+* local best-fit directions that are definable inside patches but incompatible between patches.
+Plainly:
+Shear should look like readable pieces that cannot agree with their neighbors.
+The key is not generic scattering.
+Scattering can arise from many causes. Shear requires evidence that optical fragmentation tracks the fluid’s independently observed patch incompatibility.
+The strongest Shear prediction is:
+local contrast remains high, but spatial composition fails.
+Shear is weakened if an independently classified fragmented region supports smooth single-path optical continuation without patchwise discontinuity in intensity, phase, scattering, or path.
+4.6 Drift Prediction: Preserved Readability with Accumulating Misregistration
+Drift means:
+memory exists but alignment fails.
+In the calibration surface, Drift is classified when a feature remains readable but loses registration across time, position, scale, frame, or expected continuation.
+The predicted light-probe cluster is:
+preserved local readability with directional misregistration.
+Expected signs include:
+* local contrast remains reasonably stable;
+* a boundary, gradient, or feature remains readable;
+* the orientation center moves over time;
+* beam position shifts over time;
+* cumulative phase walk develops;
+* path or phase displacement has a directional trend;
+* the effect remains after ordinary flow, vibration, and apparatus motion are considered.
+Plainly:
+Drift should look like a readable feature that will not stay lined up.
+The key is not motion by itself.
+Ordinary flow can move an interface. Drift requires a retained feature whose alignment fails relative to the relevant observation frame or expected continuation.
+The strongest Drift prediction is:
+preserved local contrast plus directional accumulation over time.
+Drift is weakened if path, phase, feature location, and orientation remain stably registered after ordinary motion, flow, vibration, and measurement noise are controlled.
+4.7 Echo Prediction: Recurrence Without Durable Update
+Echo means:
+retry occurs without thickening.
+In the calibration surface, Echo is classified when a feature, pattern, boundary behavior, or disturbance returns recognizably, but the recurrence does not become a durable new state.
+The predicted light-probe cluster is:
+repeated optical profile without stable baseline shift.
+Expected signs include:
+* repeated intensity pattern;
+* recurring phase disturbance;
+* recurring scattering profile;
+* recurring beam displacement;
+* high cycle-to-cycle similarity;
+* cumulative phase or displacement returning toward baseline;
+* low durable baseline shift;
+* no stable new morphology after repeated recurrence.
+Plainly:
+Echo should look like a return that does not become a settled update.
+The key is not ordinary oscillation by itself.
+Echo requires recurrence without durable ratchet. The pattern comes back, but it does not become a new stable condition.
+The strongest Echo prediction is:
+high recurrence similarity with low baseline shift.
+Echo is weakened if recurrence is absent, or if recurrence quickly produces a stable new morphology or optical baseline.
+4.8 Lock Prediction: Path-Dependent Hysteresis or Memory
+Lock means:
+memory over-holds after update should occur.
+In the calibration surface, Lock is classified when prior path matters: the same current control conditions produce different fluid states or optical outputs depending on how the system arrived there.
+The predicted light-probe cluster is:
+path-dependent optical behavior under matched current conditions.
+Expected signs include:
+* hysteresis loop area;
+* forward and reverse paths do not overlay;
+* delayed reset after reversal;
+* residual phase bias;
+* residual intensity bias;
+* residual beam displacement;
+* the same current control conditions produce different outputs depending on prior state;
+* output does not converge to a path-independent value after appropriate dwell.
+Plainly:
+Lock should look like the past still has authority over the present.
+The key is not delay alone.
+Slow relaxation can mimic Lock if the measurement window is too short. A system may simply be taking time to converge. Lock requires path dependence: the prior route continues to matter under matched current conditions.
+The strongest Lock prediction is:
+same current conditions, different output by prior path.
+Lock is weakened if optical behavior resets reversibly and converges to a path-independent value after sufficient dwell.
+4.9 Pairwise Prediction Boundaries
+The regimes are strongest when their nearest neighbors can be separated.
+Dissolution vs Shear
+Dissolution means local readable structure fails to stabilize.
+Shear means local readable structure stabilizes but fails to compose.
+The key discriminator is:
+local contrast stability plus spatial autocorrelation.
+Low or unstable local contrast favors Dissolution.
+High local contrast with short spatial autocorrelation favors Shear.
+Shear vs Drift
+Shear breaks across space.
+Drift walks through time.
+The key discriminator is:
+spatial incompatibility versus temporal misregistration.
+Patch incompatibility at a given time favors Shear.
+Preserved feature quality with accumulating displacement favors Drift.
+Drift vs Echo
+Drift accumulates.
+Echo returns.
+The key discriminator is:
+cumulative phase or displacement trend.
+Nonzero directional accumulation favors Drift.
+Return toward baseline with high recurrence similarity favors Echo.
+Echo vs Lock
+Echo returns without durable update.
+Lock preserves prior-path authority.
+The key discriminator is:
+recurrence versus path-dependence under matched conditions.
+Similar recurrence regardless of approach path favors Echo.
+Different outputs under the same current condition depending on prior path favors Lock.
+Lock vs Slow Relaxation
+Slow relaxation is late convergence.
+Lock is history still governing the destination.
+The key discriminator is:
+extended dwell under matched current conditions.
+Convergence to a common value favors slow relaxation.
+Persistent path-class separation favors Lock.
+The experiment does not ask whether a light-probe produces any visible effect.
+It asks whether the observed effect matches the cluster predicted for the independently classified regime.
+Dissolution should decay.
+Shear should fragment.
+Drift should misregister.
+Echo should recur without ratchet.
+Lock should remain path-dependent.
+If those clusters appear under independent classification and survive confound testing, the calibration mapping gains support.
+If they do not appear, or if they collapse into ordinary optical and fluid-mechanical explanations, the calibration mapping weakens.
+* Echo is separated from ordinary oscillation by asking whether recurrence occurs without durable baseline shift and without external forcing explaining it.
+* Lock is separated from slow relaxation by asking whether matched current conditions remain path-dependent after sufficient dwell.
+The discriminant is what keeps the test from becoming interpretation after the fact.
+5. Measurement Translation and Local Admissibility
+The previous section stated the predicted light-probe clusters.
+This section explains how those predictions become measurable in the calibration surface.
+The translation rule is simple:
+Structural Flow supplies the predicted failure shape.
+Classical optics supplies the measurement language.
+The artifact does not ask the reader to measure Structural Flow directly.
+It asks whether independently classified fluid regimes produce distinguishable patterns in ordinary optical variables: contrast, phase, scattering, beam displacement, spatial correlation, recurrence, baseline shift, hysteresis, and path dependence.
+This is a measurement-translation section.
+It does not derive full optics.
+It does not derive Maxwell’s equations.
+It does not close photon theory.
+It does not claim that immiscible fluids are cosmological dark matter.
+It only states the local prediction grammar used to connect the classified fluid condition to measurable optical behavior.
+5.1 Measurement Translation Rule
+The calibration test has three parts:
+1. classify the fluid regime independently;
+2. state the predicted light-probe cluster;
+3. measure whether the optical output matches that cluster better than nearby alternatives or ordinary confounds.
+The measurement language must remain ordinary enough for specialists to evaluate.
+Relevant variables may include:
+* local contrast;
+* boundary readability;
+* refractive-index gradient;
+* intensity field;
+* phase field;
+* scattering-angle distribution;
+* speckle contrast;
+* beam displacement;
+* orientation-center velocity;
+* cumulative phase walk;
+* spatial autocorrelation length;
+* temporal autocorrelation;
+* cycle-to-cycle similarity;
+* baseline shift;
+* hysteresis area;
+* dwell convergence;
+* path-class separation.
+No single variable carries the proposal by itself.
+The question is whether the variables form the predicted cluster.
+5.2 Local Optical Admissibility
+The core local idea is:
+light behaves locally as long as its continuation fits the condition the region can carry.
+If the fit remains within the region’s tolerance, optical continuation remains locally admissible.
+If the fit exceeds the region’s tolerance, optical behavior changes. It may lose readability, fragment, drift, recur, or become path-dependent depending on which regime is active.
+The proposed local admissibility relation is:
+κ_b · χ(γ, μ_b) ≤ τ_b
+This relation should be read as prediction grammar, not as a completed optical law.
+In plain language:
+mismatch cost must stay within local tolerance.
+Or more simply:
+fit must stay inside tolerance.
+5.3 Terms in the Relation
+Each term has a practical meaning.
+γ is the candidate optical behavior or continuation. This may be a path, beam direction, phase progression, wavefront behavior, scattering response, or other optical continuation being tested.
+μ_b is the local best-fit condition. This is the local condition the medium most supports. It may correspond to a local boundary, interface orientation, refractive-gradient direction, phase-gradient condition, path centerline, or other local optical support.
+χ(γ, μ_b) names the mismatch between the candidate optical behavior and the local best-fit condition. It asks how far the optical behavior is from the condition the region most supports.
+κ_b is local selectivity or contrast strength. It tells how sharply the region penalizes mismatch.
+τ_b is the local tolerance or persistence-bearing budget. It tells how much mismatch the region can absorb before the local optical behavior fails to remain smoothly carried.
+Put together:
+the optical behavior remains locally admissible when mismatch, weighted by local selectivity, stays within the region’s tolerance budget.
+5.4 Margin Form
+The same relation can be written as a margin:
+m_b(γ) = τ_b − κ_bχ(γ, μ_b)
+If:
+m_b(γ) ≥ 0
+then the candidate optical behavior remains locally admissible.
+If:
+m_b(γ) < 0
+then the candidate optical behavior exceeds the local tolerance budget.
+This does not mean the light disappears.
+It means the medium can no longer carry that optical behavior smoothly in that local way.
+Depending on the failure regime, the result may appear as fading contrast, patch fragmentation, path drift, recurrence without baseline shift, or history-dependent hysteresis.
+The margin form is useful because it lets the experiment ask:
+what changed locally?
+That local change differs by regime.
+5.5 Regime Changes in Local Admissibility
+The five regimes are predicted to change different parts of the local admissibility situation.
+Regime
+	Local admissibility change
+	Plain meaning
+	Expected measurement shape
+	Dissolution
+	μ_b, κ_b, or τ_b fail to stabilize
+	the local readable condition under-forms
+	contrast decay and short feature lifetime
+	Shear
+	neighboring local conditions are incompatible
+	local rules exist but do not compose
+	sharp patches with discontinuities
+	Drift
+	μ_b remains readable but shifts over time, scale, frame, or position
+	the readable condition misregisters
+	cumulative phase, path, or orientation drift
+	Echo
+	the local margin profile recurs without durable baseline shift
+	the condition returns without update
+	recurrence without ratchet
+	Lock
+	local margin depends on prior path
+	the past governs present admissibility
+	hysteresis and path dependence
+	This table is not a substitute for measurement.
+It is the prediction map.
+The experiment still has to determine whether the predicted measurement-shape cluster appears and whether ordinary confounds explain it better.
+5.6 Measurement Cluster Map
+The calibration test may use the following measurement cluster map.
+Regime
+	Primary measurement family
+	Secondary variables
+	Nearest ordinary confound
+	Dissolution
+	local contrast stability and feature lifetime
+	boundary readability, temporal autocorrelation, orientation stability
+	blur, turbidity, focus error, probe-scale averaging
+	Shear
+	spatial autocorrelation and patch discontinuity
+	phase jumps, intensity jumps, scattering, speckle contrast
+	generic scattering, roughness, particulates, turbulence
+	Drift
+	cumulative displacement or phase walk
+	orientation-center velocity, beam displacement, registration error
+	vibration, ordinary flow, apparatus motion
+	Echo
+	recurrence similarity with low baseline shift
+	repeated phase, intensity, or scattering profiles
+	ordinary oscillation, external periodic forcing
+	Lock
+	path-class separation under matched conditions
+	hysteresis area, dwell convergence, residual bias
+	slow relaxation, viscosity lag, diffusion lag
+	This table helps keep the experiment from treating any one optical sign as decisive.
+The measurement burden is cluster-based.
+5.7 Regime-by-Regime Measurement Focus
+Each regime has a different measurement center.
+Dissolution focuses on local readability. The relevant question is whether local contrast, boundary readability, feature lifetime, and orientation stability fail to stabilize. Dissolution is supported when a fluid feature begins to appear but cannot hold above the relevant threshold.
+Shear focuses on patch incompatibility. The relevant question is whether local patches remain readable while neighboring patches fail to compose. Shear is supported when optical fragmentation tracks independently observed patch incompatibility.
+Drift focuses on preserved readability with accumulating misregistration. The relevant question is whether the same feature remains identifiable while its position, phase, orientation center, or path shifts directionally over time.
+Echo focuses on recurrence without ratchet. The relevant question is whether a profile returns with high similarity while durable baseline shift remains low or absent.
+Lock focuses on path dependence. The relevant question is whether matched current conditions produce different optical outputs depending on prior path after sufficient dwell and ordinary relaxation checks.
+This is the simplest way to remember the measurement burden:
+Dissolution tests readability.
+Shear tests composition.
+Drift tests registration.
+Echo tests recurrence without settlement.
+Lock tests path-dependence.
+5.8 Probe-Scale Discipline
+Probe scale matters.
+If the probe is too wide, it may average over local structure and make sharp incompatible patches look like weak contrast. That can falsely turn Shear into apparent Dissolution.
+If the probe is too narrow, it may see local structure but miss the failure of field-level composition.
+A useful calibration protocol should, where possible, compare:
+1. feature-scale observation;
+2. wider-field observation.
+Feature-scale observation asks:
+what is happening locally?
+Wider-field observation asks:
+do local structures compose into a larger carried pattern?
+This distinction is especially important for:
+* Dissolution vs weak Shear;
+* Shear vs Drift;
+* local recurrence vs field-level Echo;
+* localized delay vs Lock.
+The probe must be able to see the structure the classification depends on.
+5.9 Effective-Geometry Language
+Some optical behavior may be expressible using effective-geometry language.
+For example, where geometric-optics continuation is appropriate, one may use an effective metric or effective continuation condition to describe how light behaves through the structured medium.
+This language can be useful.
+But it must be used cautiously.
+In this artifact, effective-geometry language means:
+the medium presents local conditions that shape optical continuation.
+It does not mean:
+the fluid literally curves spacetime.
+It does not mean:
+full General Relativity has been derived.
+It does not mean:
+photon theory has been closed.
+Effective geometry is a translation aid for optical behavior in the calibration surface. It is not the source claim of the artifact.
+5.10 What This Section Does Not Claim
+This section does not claim that the local admissibility relation is a complete optical theory.
+It does not provide numerical thresholds.
+It does not replace refractive-index modeling, wave optics, scattering theory, or fluid mechanics.
+It does not derive Maxwell’s equations.
+It does not explain photons.
+It does not claim that every real fluid region expresses one pure regime.
+It does not claim that the dark-matter-facing physical bridge is already complete.
+Its purpose is narrower:
+to organize the prediction that each independently classified failure regime changes the local conditions for optical continuation in a distinct way.
+Classical optics remains the measurement language.
+Structural Flow supplies the failure-shape prediction.
+The calibration experiment asks whether those two layers meet in measurable clusters.
+6. Confounds and Discriminants
+The proposed calibration test must be able to lose.
+That means the artifact cannot treat every optical irregularity as evidence for a Structural Flow regime.
+Many ordinary systems blur, scatter, move, repeat, delay, or show path dependence for ordinary reasons. Fluids are complicated. Optical setups are sensitive. Imaging systems have limits. Reconstruction methods can introduce artifacts.
+The proposal is therefore not:
+messy fluids make messy light.
+The proposal is:
+independently classified failure regimes should produce distinguishable optical measurement-shape clusters that survive their nearest ordinary confounds.
+This section names the main confounds and the discriminants needed to separate them from the predicted clusters.
+6.1 Confounds and Discriminants
+A confound is an ordinary explanation that can imitate the predicted measurement-shape cluster.
+For example:
+* blur can imitate Dissolution;
+* generic scattering can imitate Shear;
+* vibration can imitate Drift;
+* ordinary oscillation can imitate Echo;
+* slow relaxation can imitate Lock.
+A confound does not automatically defeat the proposal.
+But if the confound explains the observed result better than the regime prediction does, the mapping weakens.
+A discriminant is the feature that separates the predicted regime cluster from a nearby confound.
+A good discriminant asks:
+what would be different if this were the ordinary confound rather than the Structural Flow regime prediction?
+The discriminant is what keeps the test from becoming interpretation after the fact.
+6.2 Core Confound Table
+The following table summarizes the main calibration-surface confounds.
+Regime
+	Predicted cluster
+	Main confound
+	Discriminant
+	Dissolution
+	decay of local readability
+	blur, defocus, turbidity, weak signal, probe-scale averaging
+	the fluid distinction itself fails to stabilize before target optical testing
+	Shear
+	sharp local patches with broken composition
+	generic scattering, roughness, particulates, turbulence
+	optical fragmentation tracks independently observed patch incompatibility
+	Drift
+	preserved readability with directional misregistration
+	vibration, apparatus motion, ordinary flow, bulk transport
+	retained feature shifts systematically after ordinary motion is corrected
+	Echo
+	recurrence without durable baseline shift
+	ordinary oscillation, external periodic forcing, sampling artifact
+	profile recurs without ratchet and without forcing explaining the recurrence
+	Lock
+	path-dependent hysteresis or residual bias
+	slow relaxation, viscosity lag, diffusion lag, insufficient dwell
+	matched current conditions remain separated by prior path after sufficient dwell
+	This table is a starting discipline, not a complete laboratory manual.
+A later experimental protocol would need exact thresholds, apparatus controls, material choices, and statistical criteria.
+6.3 Regime Confounds
+Dissolution
+Dissolution predicts decay of local readability.
+The main confounds are defocus, poor lighting, turbidity, low contrast, weak signal, imaging noise, probe-scale averaging, and unresolved weak Shear.
+The key discriminant is:
+does the fluid distinction itself fail to stabilize?
+If a boundary, filament, droplet, or interface begins to form but disappears or falls below a stability threshold before becoming a retained feature, Dissolution remains plausible.
+If the feature would be visible under better focus, better lighting, better resolution, or different probe scale, the Dissolution interpretation weakens.
+Dissolution is strongest when failed retention is visible in the fluid before the target optical result is evaluated.
+Shear
+Shear predicts sharp local patches that do not compose into one smooth continuation.
+The main confounds are generic scattering, roughness, particulates, ordinary turbulence, random interface complexity, probe-scale artifacts, and container or illumination irregularities.
+The key discriminant is:
+does optical fragmentation track independently observed patch incompatibility?
+Shear is not established by scattering alone.
+Shear requires local fluid structure that remains readable inside patches while neighboring patches fail to compose.
+Shear is strongest when the light-probe fragmentation follows the independently classified fluid fragmentation.
+Drift
+Drift predicts preserved local readability with accumulating misregistration.
+The main confounds are vibration, camera motion, apparatus shift, container motion, ordinary flow, bulk transport, thermal drift, tracking error, and sampling-window artifact.
+The key discriminant is:
+does the same readable feature remain identifiable while its registration shifts systematically after ordinary motion is controlled?
+Drift is not motion alone.
+A fluid feature may move because the whole fluid is flowing. A beam may shift because the apparatus moved. A phase center may walk because of thermal expansion or vibration.
+Drift is strongest when the feature remains readable and the misregistration persists after ordinary motion sources are addressed.
+Echo
+Echo predicts recurrence without durable update.
+The main confounds are ordinary oscillation, externally imposed periodic forcing, pump or vibration cycles, repeated stirring, sampling artifact, aliasing, apparatus rhythm, and environmental periodicity.
+The key discriminant is:
+does the profile recur without becoming a durable new baseline, and without external forcing fully explaining the recurrence?
+Echo is not repetition alone.
+If the system is driven periodically, recurrence may be imposed from outside. If a pump or vibration cycle causes the repeated pattern, the result may not be Echo. If recurrence settles into a stable new morphology, the result may no longer be Echo.
+Echo is strongest when recurrence is internally expressed by the system and does not produce durable settlement.
+Lock
+Lock predicts path-dependent behavior under matched current conditions.
+The main confounds are slow relaxation, viscosity lag, diffusion lag, surface-tension delay, temperature lag, incomplete mixing, insufficient dwell, apparatus hysteresis, and measurement lag.
+The key discriminant is:
+under matched current conditions, do outputs remain separated by prior path after sufficient dwell and ordinary lag explanations are addressed?
+Lock is not delay alone.
+A slow system may eventually converge to a path-independent condition. That is not Lock. Lock requires prior path to remain active after current conditions should have allowed update.
+Lock is strongest when matched current conditions remain separated by prior path after ordinary relaxation should have resolved the difference.
+6.4 Pairwise Collapse Risks
+The regimes can also collapse into each other if the discriminants are weak.
+Dissolution may collapse into weak Shear
+If local patches are too small for the probe to resolve, Shear may look like Dissolution.
+Discriminator:
+improve feature-scale resolution and ask whether sharp local patches exist.
+If local patches are visible and stable, Shear is favored.
+If local distinction itself fails to stabilize, Dissolution is favored.
+Shear may collapse into Drift
+If fragmented patches move over time, patch incompatibility may be mistaken for Drift.
+Discriminator:
+separate spatial incompatibility from temporal misregistration.
+Shear is spatial composition failure.
+Drift is retained feature misalignment over time, scale, frame, or position.
+Drift may collapse into Echo
+If a drifting feature returns near baseline, it may look like Echo.
+Discriminator:
+distinguish cumulative displacement from recurrence without ratchet.
+Drift accumulates directional misregistration.
+Echo returns without durable update.
+Echo may collapse into Lock
+If recurring patterns begin to depend on prior path, Echo may look like Lock.
+Discriminator:
+compare matched current conditions reached through different paths.
+Echo is recurrence without durable update.
+Lock is prior-path authority under matched current conditions.
+Lock may collapse into slow relaxation
+If the system simply needs more time to settle, Lock may be overcalled.
+Discriminator:
+extend dwell and test whether outputs converge.
+Path-independent convergence favors slow relaxation.
+Persistent path-class separation favors Lock.
+6.5 Probe-Scale and Sampling Confounds
+Probe scale can create false regime assignments.
+If the probe is too wide, it may average across sharp local patches and make Shear look like Dissolution.
+If the probe is too narrow, it may see local patch sharpness but miss field-level composition failure.
+If the sampling window is too short, slow relaxation may look like Lock.
+If the sampling window is too sparse, Drift may look like Echo or Echo may look like noise.
+The calibration protocol should therefore use scale discipline.
+Where possible, compare:
+* feature-scale imaging;
+* wider-field imaging;
+* short-window behavior;
+* long-window behavior;
+* local patch tracking;
+* field-level composition tracking.
+The probe must match the structure being tested.
+6.6 Apparatus and Environmental Confounds
+Some confounds belong to the experimental setup rather than the fluid itself.
+These include:
+* camera motion;
+* lighting instability;
+* laser instability;
+* thermal gradients;
+* vibration;
+* container imperfections;
+* surface contamination;
+* evaporation;
+* uneven illumination;
+* optical bench misalignment;
+* refractive effects from the container rather than the fluid.
+These must be recorded and controlled where possible.
+The proposal does not need a final apparatus design at this stage, but it must acknowledge that an optical cluster is meaningful only if the setup can support the measurement.
+A later laboratory protocol should include:
+* reference markers;
+* calibration images;
+* blank controls;
+* repeated trials;
+* known-fluid controls;
+* probe-scale tests;
+* motion correction;
+* environmental logs;
+* apparatus stability checks.
+6.7 Dark-Matter-Facing Confound Warning
+The immediate calibration test occurs in immiscible fluids.
+The long-range dark-matter-facing target is different.
+At that scale, the relevant confounds are not fluid blur, turbulence, or container vibration. They include:
+* baryonic substructure;
+* gas dynamics;
+* merger history;
+* projection effects;
+* line-of-sight structure;
+* lensing reconstruction error;
+* survey masks;
+* instrument systematics;
+* model priors;
+* fitting degeneracy;
+* algorithmic path dependence.
+Those confounds belong to the long-range observational program, not the immediate fluid calibration protocol.
+They should not be ignored.
+But they should not be allowed to swallow the calibration protocol either.
+The current artifact keeps the two levels separate:
+fluid calibration tests the regime-to-light-signature grammar in a controlled surface;
+later dark-matter-facing work would ask whether related signature families survive astrophysical and modeling confounds.
+6.8 Current Dark-Matter-Facing Readiness
+At current scope, the five regimes do not have equal dark-matter-facing readiness.
+This matters for confound discipline.
+Regime
+	Current dark-matter-facing readiness
+	Reason
+	Shear
+	strongest early candidate
+	local fit success plus global composition failure is operationally clear
+	Drift
+	strong but confound-heavy
+	retained inferred structure with systematic misalignment has observational analogues but many ordinary explanations
+	Lock
+	moderate and method-sensitive
+	path dependence matters only if tied to physical properties rather than pipeline history
+	Echo
+	fragile / ensemble-level
+	recurrence can collapse into shared priors, selection effects, survey geometry, or processing artifacts
+	Dissolution
+	calibration-only at current observational scope
+	weak unstable residuals are too close to noise and low-signal behavior
+	This readiness hierarchy is not a failure of the five-regime grammar.
+It is a guardrail for public claims.
+6.9 What This Section Establishes
+This section establishes the confound discipline for the artifact.
+The proposal does not earn support by finding any optical irregularity.
+It earns support only if:
+1. the fluid regime is classified independently;
+2. the predicted measurement-shape cluster is stated before target optical evaluation;
+3. the observed cluster appears;
+4. nearby regime confusions are addressed;
+5. ordinary optical, fluid, apparatus, and scale confounds do not explain the result better.
+That is the standard for the calibration surface.
+The long-range dark-matter-facing standard is stricter because astrophysical and modeling confounds are stronger.
+The guiding rule is:
+a regime prediction gains force only when it survives the confound most likely to imitate it.
+That is what keeps this proposal testable.
+7. Proposed Calibration Protocol
+This section outlines the proposed calibration protocol.
+It is not a final laboratory manual. It does not specify the exact fluid pair, apparatus, optical bench, image-processing method, numerical thresholds, or statistical model. Those details belong to later experimental design.
+The purpose here is narrower:
+state the order of operations required to test the prediction without circularity.
+The governing rule remains:
+classify the fluid first;
+test the light second.
+The calibration protocol asks whether independently classified immiscible-fluid failure regimes produce the predicted optical measurement-shape clusters when light is used as a probe.
+This is not direct dark-matter detection.
+It is a calibration test for the regime-to-light-signature grammar.
+7.1 Protocol Overview
+A minimal version of the proposed calibration protocol is:
+1. Prepare an immiscible-fluid calibration surface.
+2. Record initial conditions and perturbation history.
+3. Classify the fluid regime independently.
+4. State the predicted optical measurement-shape cluster before target evaluation.
+5. Apply the light-probe.
+6. Measure variables appropriate to the predicted cluster.
+7. Apply nearest-confound discriminants.
+8. Assign a result category.
+9. Revise, weaken, or support the mapping accordingly.
+This order matters.
+If the optical result is used to classify the regime, the test becomes circular.
+If the fluid is classified first and the predicted cluster is stated before target measurement, the proposal becomes testable.
+7.2 Step 1 — Prepare an Immiscible-Fluid Calibration Surface
+Begin with an immiscible-fluid system capable of producing visible boundary, interface, contrast, droplet, filament, patch, recurrence, drift, or memory-like behavior.
+The proposal does not require one specific fluid pair at this stage.
+A later laboratory protocol should choose fluids based on practical concerns such as:
+* safety;
+* optical readability;
+* manageable viscosity;
+* visible interface behavior;
+* controllable perturbation;
+* repeatability;
+* ability to produce more than one candidate regime;
+* compatibility with imaging and optical measurement.
+The important point is that the system must allow structural observation before the target light-probe output is evaluated.
+If the fluid structure cannot be classified independently before the target optical result is interpreted, the test becomes weak or circular.
+The fluid is used as a calibration surface because it makes structural behavior visible.
+It is not being treated as cosmological dark matter.
+7.3 Step 2 — Record Initial Conditions and Perturbation History
+Before classification and optical testing, record what the fluid system has undergone.
+Relevant information may include:
+* initial fluid arrangement;
+* mixing or stirring history;
+* settling time;
+* flow conditions;
+* heating or cooling;
+* compression or release;
+* oscillation or reversal;
+* surfactant or additive history;
+* prior cycles;
+* dwell time at current conditions;
+* imposed control-parameter changes.
+This history matters because the five regimes are not merely appearances.
+They are structural conditions.
+For example:
+* Dissolution may depend on whether a feature repeatedly fails to hold.
+* Shear may depend on whether load fragments a previously readable interface.
+* Drift may depend on whether a retained feature accumulates displacement.
+* Echo may depend on repeated return without durable update.
+* Lock may depend on prior path under matched current conditions.
+The perturbation history helps determine which regime is actually being tested.
+7.4 Step 3 — Classify the Fluid Region Independently
+Next, classify the fluid region using pre-optical or non-target evidence.
+The classification may use:
+* ordinary visual observation;
+* non-target imaging;
+* morphology;
+* time-series records;
+* perturbation response;
+* recurrence behavior;
+* relaxation behavior;
+* hysteresis behavior;
+* feature lifetime;
+* local contrast stability;
+* spatial autocorrelation;
+* path-dependence evidence.
+The classification should identify one of the following statuses:
+* clean classification;
+* dominant-mode classification;
+* mixed classification;
+* transitional classification;
+* candidate classification;
+* excluded / not classifiable.
+A region should not be forced into a clean regime if the evidence does not support it.
+The classification record should include:
+1. candidate regime;
+2. classification status;
+3. evidence used;
+4. perturbation history;
+5. nearest false positive;
+6. confounds already considered;
+7. whether the target optical signal was excluded from classification.
+If the region cannot be classified, it should not be used as a strong test of the regime prediction.
+7.5 Step 4 — State the Predicted Optical Cluster
+Once the fluid regime has been classified, state the predicted optical cluster before evaluating the target light-probe result.
+This protects the test from after-the-fact interpretation.
+The compressed predictions are:
+Regime
+	Predicted optical cluster
+	Dissolution
+	contrast decay, unstable local orientation, short feature lifetime, weak optical anchoring
+	Shear
+	high local contrast, short spatial autocorrelation, patch discontinuity, optical fragmentation tied to patch incompatibility
+	Drift
+	preserved local contrast with orientation-center velocity, cumulative phase walk, beam displacement, or directional path instability
+	Echo
+	recurrence similarity with low durable baseline shift
+	Lock
+	hysteresis, path-class separation, delayed reset, residual bias, or different outputs under matched current conditions depending on prior path
+	The predicted cluster should be written down before the target measurement is interpreted.
+This is what gives the test its risk.
+7.6 Step 5 — Apply the Light-Probe
+After classification and prediction, apply the light-probe.
+The light-probe may pass through, across, or along the fluid region depending on the experimental setup.
+The proposal does not require one optical geometry at this stage.
+Possible approaches may include:
+* transmitted light;
+* reflected light;
+* beam deflection;
+* phase-sensitive measurement;
+* scattering measurement;
+* imaging of intensity patterns;
+* tracking of beam position;
+* recurrence or hysteresis measurement under repeated perturbation;
+* effective-geometry interpretation where appropriate.
+The important design principle is that the probe must be able to detect the predicted cluster.
+A test of Dissolution needs sensitivity to contrast formation and feature lifetime.
+A test of Shear needs resolution of local patches and spatial composition.
+A test of Drift needs time-series tracking of displacement, phase, or orientation center.
+A test of Echo needs repeated-cycle measurement and baseline comparison.
+A test of Lock needs history-controlled measurement under matched current conditions.
+7.7 Step 6 — Use Appropriate Probe Scale
+Probe scale matters.
+If the probe is too wide, it may average over small local features and hide the difference between Dissolution and weak Shear.
+If the probe is too narrow, it may miss field-level composition failure or global drift.
+Where possible, the protocol should compare two scales.
+Feature-Scale Observation
+This helps identify:
+* local contrast;
+* patch structure;
+* local orientation;
+* small-scale fragmentation;
+* local feature lifetime.
+Feature-scale observation asks:
+what is happening locally?
+Wider-Field Observation
+This helps identify:
+* field-level continuation;
+* global composition;
+* cumulative drift;
+* recurrence;
+* hysteresis;
+* path dependence.
+Wider-field observation asks:
+does the local structure compose into a larger carried pattern?
+This two-scale approach is especially useful for distinguishing:
+* Dissolution from weak Shear;
+* Shear from Drift;
+* local recurrence from field-level Echo;
+* localized delay from Lock.
+7.8 Step 7 — Use Ramp-and-Hold Where History Matters
+For Drift, Echo, and especially Lock, a static snapshot may not be enough.
+A ramp-and-hold design can help.
+In a ramp-and-hold design, a control condition is changed, then held while the fluid structure and optical output are observed.
+The control condition might be:
+* perturbation level;
+* flow rate;
+* temperature;
+* mixing strength;
+* interface displacement;
+* oscillation amplitude;
+* reversal path;
+* another experimentally appropriate variable.
+The basic form is:
+1. begin from a known starting condition;
+2. ramp the control condition;
+3. hold at a target condition;
+4. record fluid structure and optical output during the hold;
+5. reverse or approach the same target condition from another path;
+6. compare outputs under matched current conditions.
+This helps distinguish:
+* Drift from ordinary motion;
+* Echo from ordinary oscillation;
+* Lock from slow relaxation.
+For Lock, ramp-and-hold is especially important because delay alone is not enough.
+The test must ask whether the output remains path-dependent under matched current conditions after appropriate dwell.
+7.9 Step 8 — Measure the Relevant Optical Variables
+The optical variables should be chosen according to the predicted cluster.
+Possible variables include:
+* local contrast;
+* boundary readability;
+* refractive-index gradient;
+* intensity field;
+* phase field;
+* scattering-angle distribution;
+* speckle contrast;
+* beam displacement;
+* orientation-center velocity;
+* cumulative phase walk;
+* spatial autocorrelation length;
+* temporal autocorrelation;
+* cycle-to-cycle similarity;
+* baseline shift;
+* hysteresis area;
+* dwell convergence;
+* path-class separation.
+The experiment should not try to measure everything at once unless the setup supports it.
+It should choose variables that match the classified regime and its nearest confounds.
+For example:
+* Dissolution requires local contrast stability and feature lifetime.
+* Shear requires local contrast plus spatial autocorrelation or patch compatibility.
+* Drift requires preserved local readability plus displacement or phase accumulation.
+* Echo requires cycle similarity plus low baseline shift.
+* Lock requires path-class comparison, hysteresis, and dwell behavior.
+The correct question is not:
+did any optical effect occur?
+The correct question is:
+did the predicted measurement-shape cluster occur?
+7.10 Step 9 — Apply Confound Discriminants
+After measurement, compare the observed optical behavior against the nearest confounds.
+Examples:
+Dissolution must be distinguished from ordinary blur, turbidity, focus problems, and unresolved weak Shear.
+Shear must be distinguished from generic scattering, random turbidity, particulates, and ordinary roughness.
+Drift must be distinguished from vibration, apparatus motion, ordinary flow, and bulk transport.
+Echo must be distinguished from ordinary oscillation or externally imposed periodic forcing.
+Lock must be distinguished from slow relaxation, viscosity lag, diffusion lag, and surface-tension delay.
+The prediction is strengthened when the observed cluster survives these discriminants.
+The prediction is weakened when an ordinary confound explains the optical behavior better than the Structural Flow regime prediction.
+7.11 Step 10 — Assign a Result Category
+Each trial or observation should be assigned an interpretation category.
+Strong Support
+Use when:
+* the fluid regime was independently classified;
+* the classification was clean or strongly dominant;
+* the predicted measurement-shape cluster appeared;
+* nearest confounds were considered;
+* the cluster fits the predicted regime better than adjacent regimes.
+Partial Support
+Use when:
+* some predicted features appeared;
+* others were absent, noisy, or under-measured;
+* confounds do not fully explain the result;
+* the mapping remains plausible but incomplete.
+Ambiguous Result
+Use when:
+* the fluid classification was mixed, transitional, or uncertain;
+* the optical cluster fits more than one regime;
+* confounds remain unresolved;
+* probe scale or measurement design was insufficient.
+Weakening Result
+Use when:
+* the fluid regime was independently classified;
+* the predicted optical cluster did not appear;
+* or an ordinary confound explains the optical behavior better.
+Falsifying Pressure
+Use when:
+* independently classified regimes repeatedly fail to produce distinguishable clusters;
+* the predicted clusters collapse into one another under good measurement conditions;
+* or optical behavior cannot be linked to the classified regime except by after-the-fact interpretation.
+The proposal should be able to lose.
+That is part of what makes it a calibration test rather than a metaphor.
+7.12 What the Protocol Does Not Yet Provide
+This protocol does not yet provide:
+* exact fluid recipes;
+* apparatus dimensions;
+* optical bench design;
+* numerical thresholds;
+* statistical power analysis;
+* image-processing pipelines;
+* error bars;
+* final material-selection criteria;
+* complete wave-optics modeling;
+* complete fluid-mechanics modeling.
+Those details are downstream.
+The present artifact supplies the prediction architecture and the testing order.
+A later laboratory protocol can specify exact materials, measurements, controls, and statistical tests.
+7.13 Relationship to the Long-Range Dark-Matter-Facing Target
+This calibration protocol is not the long-range target.
+The long-range target is light passing through, around, or reconstructed across dark-matter-associated gravitational regions.
+At that level, the relevant pattern families would more likely involve lensing maps, shear fields, mass reconstructions, residual structures, centroid offsets, scale-dependent reconstruction behavior, repeated residual motifs, or path-dependent modeling outcomes.
+The calibration protocol does not prove those later signatures.
+It does something more limited:
+it tests whether the failure-regime signature grammar can produce distinguishable light-probe clusters in an accessible SF-isomorphic surface.
+If the calibration clusters cannot be distinguished, the long-range projection weakens.
+If the calibration clusters can be distinguished, the long-range projection gains a sharper measurement grammar for later observational work.
+8. Long-Range Dark-Matter-Facing Prediction Target
+The immediate experiment proposed in this artifact is a calibration protocol.
+It is not a direct dark-matter detection experiment.
+The calibration protocol asks whether independently classified immiscible-fluid failure regimes produce distinguishable optical measurement-shape clusters when light is used as a probe.
+That is the near-term test.
+The long-range target is different.
+The long-range target is light passing through, around, or reconstructed across dark-matter-associated gravitational regions.
+At that scale, the relevant signatures would not look like laboratory fluid interfaces. They would more likely appear in lensing maps, shear fields, mass reconstructions, residual structures, centroid offsets, scale-dependent reconstruction behavior, repeated residual motifs, or path-dependent modeling outcomes.
+This section explains how the calibration protocol points toward that long-range target without claiming that the target has already been reached.
+8.1 Relationship to the Upstream Dark-Matter Classification
+This artifact is downstream of a prior Structural Flow dark-matter classification.
+That upstream work proposed that the phenomena currently grouped under “dark matter” may be structurally classifiable as failure regimes of persistence rather than as one homogeneous persistence category.
+The present artifact does not re-derive that classification.
+It asks a next question:
+If the classification is useful, what light-signature families should follow?
+That question has two stages.
+The first stage is controlled calibration:
+Can the five regimes produce distinguishable optical clusters in a visible SF-isomorphic surface?
+The second stage is long-range observation:
+Can related pattern families later be sought in lensing, shear, reconstruction, and residual behavior associated with inferred dark-matter structure?
+The first stage does not prove the second.
+But the first stage helps make the second stage more precise.
+8.2 Why the Long-Range Target Is Not Ordinary “Light Through Dark Matter”
+This artifact avoids the phrase:
+light through dark matter
+when that phrase would suggest that dark matter is being treated as an ordinary optical medium.
+The safer description is:
+light passing through, around, or reconstructed across dark-matter-associated gravitational regions.
+That wording matters.
+In the calibration surface, light passes through or across a structured medium whose optical behavior can be observed directly.
+In the dark-matter-facing target, the relevant observations are more likely gravitationally mediated or reconstruction-mediated. They may appear through lensing, shear, mass-map reconstruction, residual behavior, centroid offset, or fit instability.
+The proposal is not claiming that dark matter directly behaves like a transparent laboratory fluid.
+It is asking whether dark-matter-associated gravitational regions may show distinguishable light-related pattern families if the Structural Flow regime classification is useful.
+8.3 What Carries Over from Calibration
+The immiscible-fluid calibration surface teaches the signature grammar.
+It asks how five failure regimes affect light when the structural condition can be observed directly.
+The lessons that may carry forward are not the literal fluid shapes.
+They are the measurement-shape relations.
+For example:
+* Dissolution teaches what failed local retention looks like when a feature begins but does not hold.
+* Shear teaches what local readability plus broken composition looks like.
+* Drift teaches what retained readability plus systematic misregistration looks like.
+* Echo teaches what recurrence without durable update looks like.
+* Lock teaches what path-dependence under matched current conditions looks like.
+The long-range dark-matter-facing target would not look for droplets, filaments, or fluid interfaces.
+It would look for related pattern families in gravitationally inferred structure.
+The carry-forward is structural, not material.
+8.4 Candidate Dark-Matter-Facing Observational Families
+At current scope, the five regimes do not have equal observational readiness.
+Regime
+	Current status
+	Candidate dark-matter-facing pattern
+	Shear
+	strongest early candidate
+	local fit success with global composition failure
+	Drift
+	strong but confound-heavy
+	retained inferred structure with systematic misalignment
+	Lock
+	moderate and method-sensitive
+	data-tied path-class separation after algorithmic path dependence is controlled
+	Echo
+	fragile / ensemble-level
+	recurring residual motifs that do not become stable structural components
+	Dissolution
+	calibration-only at current observational scope
+	weak or unstable residual features, currently too close to noise and low-signal instability
+	This ranking is not a claim that the stronger candidates are true.
+It is a claim about which rows are currently more measurable, more discriminable, and less likely to collapse immediately into ordinary confounds.
+8.5 Shear as a Long-Range Candidate
+Shear is currently the strongest early dark-matter-facing candidate.
+In the calibration surface, Shear means:
+local hold fragments under load.
+Its light-probe signature is local readability with broken spatial composition.
+The long-range observational analogue is:
+local fit success plus global composition failure.
+In practice, this might appear as local lensing, shear, or mass-map fits that are internally coherent inside patches, while neighboring patches resist smooth composition under one shared model.
+This is not the same as saying:
+patchiness proves Shear.
+Patchiness can come from many ordinary causes: baryonic substructure, cluster mergers, projection effects, line-of-sight structure, survey masks, algorithmic seams, or overfitting.
+The Shear-compatible pattern would need a stronger shape:
+local fits remain coherent or high-confidence inside patches, but adjacent patches fail to compose smoothly after ordinary baryonic, projection, survey-mask, and algorithmic explanations are tested.
+That makes Shear a candidate observational family, not a confirmed regime.
+Shear weakens if one smooth or physically justified composite model absorbs the patch structure without significant residual seam.
+8.6 Drift as a Long-Range Candidate
+Drift is also a strong candidate, but it is confound-heavy.
+In the calibration surface, Drift means:
+memory exists but alignment fails.
+Its light-probe signature is preserved readability with accumulating misregistration.
+The long-range observational analogue is:
+retained inferred structure with systematic misalignment across scale, frame, method, or reconstruction layer.
+In practice, this might appear as centroid offsets, mass-light offsets, scale-dependent reconstruction drift, locally stable maps that misalign globally, or halo centers that move under scale choice.
+This is not the same as saying:
+any offset proves Drift.
+Offsets can arise from baryonic feedback, merger dynamics, gas stripping, projection effects, smoothing choices, centroiding uncertainty, calibration error, and ordinary dynamical history.
+The Drift-compatible pattern would need a stronger shape:
+the same inferred structure remains trackable while its alignment changes systematically beyond ordinary baryonic, dynamical, projection, centroiding, and reconstruction explanations.
+Drift weakens if offsets disappear under improved baryonic modeling, projection correction, centroiding correction, or reconstruction calibration.
+8.7 Lock as a Long-Range Candidate
+Lock is promising, but methodologically dangerous.
+In the calibration surface, Lock means:
+memory over-holds after update should occur.
+Its light-probe signature is path-dependent behavior under matched current conditions.
+The long-range observational analogue is:
+data-tied path-class separation in reconstruction or modeling outcomes.
+In practice, this might appear as mass reconstructions, lensing inversions, or model fits that remain separated by prior path, initialization, or modeling history under matched data and comparable model class.
+This is dangerous because ordinary reconstruction pipelines can already be path-dependent.
+An optimizer can get trapped in a local minimum.
+A prior can bias a result.
+A convergence tolerance can preserve an artifact.
+A modeling pipeline can create apparent hysteresis without any new physical significance.
+For Lock to carry evidentiary weight, path dependence must not merely be algorithmic.
+The Lock-compatible pattern would need a stronger shape:
+under matched data and comparable model class, outputs remain separated by prior path after convergence checks, prior relaxation, controlled re-initialization, and independent pipeline comparison; the separation must correlate with physical properties of the region rather than pipeline-specific parameters.
+Lock weakens if reconstructions converge to the same path-independent solution after sufficient iteration, prior relaxation, independent pipeline comparison, and controlled re-initialization.
+It also weakens if the path dependence is purely algorithmic and not data-tied.
+8.8 Echo as a Long-Range Candidate
+Echo is structurally coherent but observationally fragile.
+In the calibration surface, Echo means:
+retry occurs without thickening.
+Its light-probe signature is recurrence without durable baseline shift.
+The long-range observational analogue is:
+recurring residual motifs or fit patterns that do not become stable structural components or durable parameter updates.
+In practice, this might appear across ensemble lensing residual studies, repeated halo-profile residual comparisons, simulation residual libraries, multi-cluster map correlations, or repeated reconstruction runs.
+But Echo is highly vulnerable to confounds.
+Recurring motifs can come from shared modeling priors, algorithmic artifacts, selection effects, survey scan patterns, environmental similarity, simulation priors, or repeated processing assumptions.
+For Echo to carry evidentiary weight, recurrence would need to survive independent pipeline comparison and not be explained by shared priors, selection effects, survey geometry, or processing artifacts.
+Echo weakens if recurrence is absent, if the recurring feature becomes a stable accepted structure, or if recurrence is explained by pipeline, selection, survey, or prior effects.
+At current scope, Echo should be treated as a fragile, likely ensemble-level candidate.
+8.9 Dissolution as a Calibration-Boundary Candidate
+Dissolution remains structurally necessary, but it is not currently a strong dark-matter-facing observational candidate.
+In the calibration surface, Dissolution means:
+distinction appears but cannot hold.
+Its light-probe signature is local contrast beginning but failing to stabilize.
+That can be tested in a controlled fluid system.
+But at the dark-matter-facing observational level, weak or unstable residual features are too easily confused with noise, low signal-to-noise behavior, smoothing artifacts, line-of-sight contamination, background-source uncertainty, instrument systematics, and reconstruction variability.
+For now, Dissolution should remain calibration-only or boundary-level in the public artifact.
+That does not remove it from the Structural Flow regime grammar.
+It only acknowledges that the current observational discriminator is not strong enough.
+Dissolution weakens as a dark-matter-facing candidate if unstable features either disappear under better noise and systematics control or stabilize into durable substructure.
+8.10 What the Long-Range Target Would Test
+The long-range dark-matter-facing target would not test whether immiscible fluids are dark matter.
+It would test whether the calibrated failure-regime signature grammar helps organize observational pattern families associated with inferred dark-matter structure.
+The question would be:
+do lensing, shear, reconstruction, and residual behaviors sort into failure-regime pattern families better than they do under undifferentiated residual treatment?
+A positive result would not automatically prove the dark-matter classification.
+A negative result would not automatically falsify all of Structural Flow.
+But either result would matter.
+A positive result would suggest that the failure-regime grammar generates useful observational distinctions.
+A negative result would locate a seam in the projection from calibration surface to cosmological observation.
+8.11 Why This Section Belongs in the Artifact
+This section belongs in the artifact because it explains why the calibration protocol matters.
+Without this section, the artifact could be misread as only a fluid-optics proposal.
+It is more than that.
+The immiscible-fluid protocol is the accessible test surface.
+The dark-matter-facing observational program is the long-range target.
+The calibration protocol asks whether the five failure regimes produce distinguishable light-probe clusters in a controlled setting.
+If they do not, the long-range projection weakens.
+If they do, the proposal earns a sharper signature grammar for later observational work.
+That is the purpose of the calibration experiment within the larger dark-matter-facing prediction program.
+9. Falsification and Interpretation
+A proposal is useful only if it can fail.
+This artifact does not ask the reader to accept the proposed mapping by assertion. It offers a prediction protocol.
+The immediate calibration prediction is:
+independently classified immiscible-fluid failure regimes should produce distinguishable optical measurement-shape clusters when light is used as a probe.
+The long-range dark-matter-facing prediction is:
+if the calibration grammar survives, related signature families may eventually be sought in lensing, shear, reconstruction, and residual behavior associated with inferred dark-matter structure.
+These two levels are connected, but they are not the same test.
+A failed calibration result would weaken the regime-to-light-signature grammar.
+A failed dark-matter-facing observational result would weaken the projection of that grammar into cosmological observation.
+Neither failure would automatically falsify all of Structural Flow.
+But either failure would matter.
+9.1 What Is Being Tested Now
+The immediate test is the calibration mapping:
+Structural Flow failure regime
+→ independently classified immiscible-fluid condition
+→ predicted optical measurement-shape cluster.
+The calibration test asks whether the five regimes produce distinguishable light-probe clusters in a controlled SF-isomorphic surface.
+That is the direct burden of this artifact.
+The calibration mapping is supported when:
+* the fluid regime is classified independently;
+* the predicted optical cluster is stated before target evaluation;
+* the relevant variables are measured;
+* the observed cluster appears;
+* nearby regime confusions are addressed;
+* ordinary optical, fluid, apparatus, and scale confounds do not explain the result better.
+The calibration mapping is weakened when:
+* the fluid regime cannot be independently classified;
+* the predicted cluster does not appear;
+* the optical result is needed to classify the regime;
+* the clusters collapse into one another;
+* ordinary confounds explain the result better;
+* or the mapping survives only by after-the-fact interpretation.
+9.2 What Is Not Being Tested Directly
+The calibration experiment is not direct dark-matter detection.
+It does not test whether laboratory immiscible fluids are cosmological dark matter.
+It does not test all of General Relativity.
+It does not test photon ontology.
+It does not test all of Structural Flow.
+It tests whether the proposed failure-regime signature grammar has measurable traction in a visible, controllable physical surface.
+The long-range dark-matter-facing target remains conditional.
+Later work may ask whether related pattern families appear in gravitational-lensing, shear, mass-reconstruction, and residual-analysis contexts. That later work would require much stronger astrophysical and modeling controls.
+9.3 General Falsification Rule for the Calibration Mapping
+The calibration mapping is weakened when an independently classified fluid regime does not produce the predicted optical cluster under conditions where the relevant cluster should be observable.
+It is also weakened when an ordinary confound explains the observed optical behavior better than the Structural Flow regime prediction does.
+It is further weakened if the predicted clusters collapse into one another so strongly that the five-regime distinction no longer improves measurement, classification, or prediction.
+In plain language:
+if the fluid is classified first, and the light repeatedly does not report the predicted cluster, the calibration mapping loses force.
+9.4 What Does Not Count as Falsification by Itself
+Not every failed or messy observation is a decisive failure.
+The following do not automatically falsify the mapping:
+* the fluid region was not independently classified;
+* the classification depended on the same optical signal being tested;
+* the case was mixed or transitional;
+* the probe scale was too large or too small for the relevant structure;
+* ordinary blur, vibration, flow, scattering, oscillation, or slow relaxation was not controlled;
+* the measurement apparatus could not detect the relevant variable;
+* the observation window was too short for the predicted time behavior;
+* the system was not capable of expressing the target regime cleanly;
+* the prediction was evaluated after the fact rather than stated before measurement.
+These results may still be useful.
+They may show that the protocol needs improvement.
+But they do not, by themselves, count as strong falsification.
+A fair calibration test requires:
+1. independent classification;
+2. a stated prediction before target measurement;
+3. measurement of the relevant variables;
+4. attention to nearest confounds;
+5. a regime-specific falsifier.
+9.5 Regime-Specific Falsifiers
+Each regime can fail as a prediction.
+That matters.
+The proposal is not protected by saying that any unexpected result is merely a mixed regime. Mixed regimes are possible, but they must be identified honestly. A clean or strongly dominant classification should produce the cluster predicted for that classification.
+Dissolution
+Dissolution predicts decay of local readability.
+It is weakened if:
+a sharp, stable, boundary-locked optical condition persists in a region independently classified as Dissolution.
+Plainly:
+Dissolution fails as a prediction if the feature holds well enough for the light to read it stably.
+Shear
+Shear predicts sharp local patches that do not compose.
+It is weakened if:
+independently classified fragmented regions support smooth single-path optical continuation without patchwise discontinuity.
+Plainly:
+Shear fails as a prediction if the fluid breaks into incompatible patches but the light continues as though the patch break does not matter.
+Drift
+Drift predicts preserved local readability with accumulating misregistration.
+It is weakened if:
+path, phase, feature location, and orientation remain stably registered after ordinary motion, flow, vibration, and measurement noise are controlled.
+Plainly:
+Drift fails as a prediction if the feature stays readable and also stays properly lined up.
+Echo
+Echo predicts recurrence without durable update.
+It is weakened if:
+recurrence is absent, or recurrence quickly becomes a stable new morphology or optical baseline.
+Plainly:
+Echo fails as a prediction if the pattern does not return, or if the return becomes a settled update.
+Lock
+Lock predicts path-dependent optical behavior under matched current conditions.
+It is weakened if:
+optical behavior resets reversibly and converges to a path-independent value after sufficient dwell.
+Plainly:
+Lock fails as a prediction if the past no longer matters once the present condition is held long enough.
+9.6 Cluster-Collapse Falsifier
+The proposal is also weakened if the five predicted clusters cannot be kept distinct.
+The five-regime mapping depends on these separations:
+* Dissolution: local readability decays.
+* Shear: local readability survives but patch composition fails.
+* Drift: local readability survives but accumulates displacement.
+* Echo: recurrence appears without durable update.
+* Lock: prior path governs matched current conditions.
+If the measured clusters repeatedly collapse into one another, the mapping loses force.
+For example:
+* if Dissolution and weak Shear cannot be separated by local contrast stability and spatial autocorrelation;
+* if Shear and Drift cannot be separated by spatial incompatibility versus directional accumulation over time;
+* if Drift and Echo cannot be separated by cumulative phase walk versus return to baseline;
+* if Echo and Lock cannot be separated by recurrence versus path dependence;
+* if Lock and slow relaxation cannot be separated by extended dwell and path-independent convergence;
+then the proposed calibration translation would need revision.
+This kind of result would not necessarily erase the usefulness of the regimes.
+But it would weaken the claim that they produce distinguishable optical measurement-shape clusters in this calibration setting.
+9.7 Protocol Failure Versus Mapping Failure
+Some negative results show that the protocol failed, not that the mapping failed.
+A protocol failure occurs when the test was not capable of evaluating the prediction fairly.
+Examples include:
+* no independent classification was performed;
+* the prediction was stated after the optical result was known;
+* the probe could not resolve the relevant feature scale;
+* the measurement window was too short;
+* the apparatus introduced uncontrolled vibration or drift;
+* the system did not produce a classifiable regime;
+* the case was mixed or transitional but treated as clean;
+* necessary variables were not measured.
+A mapping failure occurs when the protocol was capable of testing the prediction, but the predicted cluster did not appear.
+The artifact should distinguish these clearly.
+Protocol failure means:
+the test must be improved.
+Mapping failure means:
+the proposed regime-to-optical-cluster relation is weakened.
+9.8 Interpreting Positive Calibration Results
+A positive calibration result would mean that the failure-regime framework has produced a real empirical prediction surface.
+It would show that Structural Flow can do more than classify after the fact. It can propose testable differences in how physical systems should behave when independently classified by structural failure regime.
+A positive calibration result would support further work, including:
+* improved laboratory protocols;
+* quantitative thresholds;
+* refined image-processing methods;
+* stronger optical modeling;
+* comparison across fluid pairs;
+* more precise use of effective-geometry language;
+* further testing of the local admissibility operator;
+* possible extension to other structured media.
+A positive calibration result would not mean dark matter has been directly detected or that full optics, photon theory, Maxwell’s equations, QED, Special Relativity, or General Relativity have been derived.
+The meaning would be narrower and still important:
+the proposed Structural Flow failure-regime mapping generated distinguishable, testable optical predictions in the calibration surface.
+9.9 Interpreting Negative Calibration Results
+A negative calibration result would also be useful.
+It could mean that the mapping is wrong.
+It could mean that the regimes do not translate into optical clusters in immiscible fluids.
+It could mean that the optical clusters were poorly specified.
+It could mean that the local admissibility operator is too weak or too abstract.
+It could mean that the chosen fluid system is not a good calibration surface.
+It could mean that the classification layer is not reliable enough.
+The result should not be protected from those possibilities.
+If the calibration mapping fails, the honest next step is to identify where it failed:
+* classification failure;
+* translation failure;
+* measurement failure;
+* confound-control failure;
+* regime-collapse failure;
+* wrong test surface;
+* wrong prediction.
+A negative result can still improve the research program by locating the exact seam that failed.
+9.10 Interpreting Mixed Calibration Results
+A mixed result may be the most likely early outcome.
+Some regimes may be easier to classify and test than others.
+Shear and Lock may be more visible than Echo.
+Dissolution and weak Shear may be difficult to separate without careful probe-scale control.
+Drift may be easy to overcount if ordinary motion is not controlled.
+Echo may be hard to distinguish from externally driven oscillation.
+Lock may be hard to distinguish from slow relaxation without sufficient dwell.
+A mixed result should not be treated as failure or success too quickly.
+It should be used to improve the next protocol.
+The most useful mixed result would identify which regime-prediction pairs are strongest and which need refinement.
+9.11 Interpreting Long-Range Dark-Matter-Facing Results
+The long-range dark-matter-facing target has a stricter interpretation standard.
+A candidate pattern in lensing, shear, reconstruction, or residual behavior would not confirm a Structural Flow regime by itself.
+At most, it would be:
+consistent with a regime, conditional on the upstream classification assumption and after ordinary astrophysical and modeling confounds are addressed.
+At current scope, the strongest long-range candidates are Shear and Drift.
+Shear would look for local fit success with global composition failure.
+Drift would look for retained inferred structure with systematic misalignment across scale, frame, method, or reconstruction layer.
+Lock would require data-tied path-class separation after algorithmic path dependence is controlled.
+Echo would require recurrence that survives independent pipeline comparison and does not collapse into shared priors, selection effects, or survey artifacts.
+Dissolution should remain calibration-only until it can be separated from noise and weak-signal behavior.
+A positive long-range result would not prove the dark-matter hypothesis by itself.
+It would support the hypothesis that the failure-regime grammar can organize some dark-matter-associated observational pattern families better than undifferentiated residual treatment.
+A negative long-range result would not erase the calibration work.
+It would weaken the projection from calibration surface to cosmological observation.
+9.12 Final Interpretation Rule
+The final interpretation rule is:
+do not protect the mapping by moving the goalposts.
+If the prediction is stated before measurement, keep the prediction visible.
+If the classification is uncertain, mark it uncertain.
+If the case is mixed, mark it mixed.
+If a confound explains the result better, say so.
+If the cluster appears, record support.
+If the cluster does not appear, record weakening pressure.
+If the clusters collapse, revise the mapping.
+If ordinary astrophysical and modeling explanations fully absorb the candidate patterns, narrow or abandon the long-range dark-matter-facing projection.
+This discipline is what makes the proposal useful.
+9.13 Closing Statement
+This artifact proposes a calibration protocol for a larger dark-matter-facing prediction program.
+The upstream Structural Flow dark-matter artifact supplies the classification hypothesis.
+The present artifact asks whether the five failure regimes can generate distinguishable light-signature families in an accessible SF-isomorphic calibration surface.
+The immediate test is immiscible-fluid calibration.
+The long-range target is lensing, shear, reconstruction, and residual behavior associated with dark-matter-associated gravitational regions.
+The proposal can support the mapping.
+It can partially support it.
+It can reveal ambiguity.
+It can force revision.
+It can weaken the calibration grammar.
+It can weaken the dark-matter-facing projection.
+It can fail.
+That is enough.
+A framework earns empirical traction not by being protected from failure, but by making predictions clear enough that failure can find it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Declaration of Generative AI and AI-Assisted Technologies
+During the preparation and revision of this manuscript, the author used generative AI tools to assist with drafting support, language refinement, structural editing, title development, technical organization, and clarity. All substantive arguments, theoretical claims, scientific hypotheses, protocol structure, scope decisions, prediction framing, and final editorial judgments are the author’s own. The author reviewed and approved the final manuscript and takes full responsibility for its content.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Optical Signatures of Structural Failure Regimes
+A Dark-Matter-Facing Prediction Protocol with Immiscible Fluids as an SF-Isomorphic Calibration Surface
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Signed,
+
+
+
+
+
+
+Rick
